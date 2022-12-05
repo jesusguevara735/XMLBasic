@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE pedidos SYSTEM "Compra.dtd">
+<pedidos>
+    <pedido>
+        <destinatario>Juan Martinez Delgado </destinatario>
+        <articulo>Bicicleta Bianchi Oltre</articulo>
+        <direccion_entrega>Reforma 423, tercer piso, letra A</direccion_entrega>
+        <fecha_entrega>20210919</fecha_entrega>
+    </pedido>
+    <pedido>
+        <destinatario>Juan Martinez Delgado Jr</destinatario>
+        <articulo>Bicicleta Bianchi Oltre</articulo>
+        <direccion_entrega>Reforma 423, tercer piso, letra A</direccion_entrega>
+        <fecha_entrega>20210919</fecha_entrega>
+    </pedido>
+    <pedido>
+        <destinatario>Juan Martinez Delgado II</destinatario>
+        <articulo>Bicicleta Bianchi Oltre</articulo>
+        <direccion_entrega>Reforma 423, tercer piso, letra A</direccion_entrega>
+        <fecha_entrega>20210919</fecha_entrega>
+    </pedido>
+</pedidos>

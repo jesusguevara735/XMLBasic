@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE flora SYSTEM "flora.dtd">
+<flora>
+    <Arboles>
+        <nombrecientifico>Acer monspessulanum</nombrecientifico>
+        <nombrecomun>Arce de Montpellier, Arce menor</nombrecomun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <formayestructura>
+            Copa esferica.
+            Tronco principal recto con bifurcaciones.
+            Ramaje colgante.
+        </formayestructura>
+        <colorenprimavera>Haz verde brillante, enves verde blanquecino</colorenprimavera>
+        <resistenciaheladas>Heladas fuertes (Hasta -15)</resistenciaheladas>
+    </Arboles>
+    <Arboles>
+        <nombrecientifico>Olea europea</nombrecientifico>
+        <nombrecomun>Olivo</nombrecomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <formayestructura>
+            Copa irregular.
+            Tronco principal irregular con bifurcaciones.
+        </formayestructura>
+    </Arboles>
+    <Arboles>
+        <nombrecientifico>Ramaje tortuoso</nombrecientifico>
+        <colorenprimavera>Haz verde oscuro, enves verde plateado</colorenprimavera>
+        <resistenciaheladas>Heladas medias (Hasta -10)</resistenciaheladas>
+    </Arboles>
+    <Arboles>
+        <nombrecientifico>Platanus orientalis</nombrecientifico>
+        <nombrecomun>Platano</nombrecomun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <formayestructura>
+            Copa ovaidal.
+            Tronco principal recto.
+            Ramaje expandido.
+        </formayestructura>
+        <colorenprimavera>Haz verde medio, enves verde claro</colorenprimavera>
+        <colorenotoño>Ocre</colorenotoño>
+        <resistenciaheladas>Heladas fuertes (Hasta -20)</resistenciaheladas>
+    </Arboles>
+    <Arboles>
+        <nombrecientifico>Quercus ilex</nombrecientifico>
+        <nombrecomun>Encina</nombrecomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>en torno a 25 metros</altura>
+        <formayestructura>
+            Copa esferica o eleptica irregular.
+            Tronco principal recto.
+            Ramaje tortuoso.
+        </formayestructura>
+        <colorenprimavera>Plateado en hojas jovenes. En hojas antiguas, haz verde oscuro, enves plateado</colorenprimavera>
+        <resistenciaheladas>Heladas fuertes (Hasta -15)</resistenciaheladas>
+    </Arboles>
+</flora>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE facturas SYSTEM "facturas.dtd">
+<facturas>
+    <factura>
+        <imagen imagen="logo.png"/>
+        <datosempresa>
+            <nombrenegocio>Invoice</nombrenegocio>
+            <direccion>calle y numero</direccion>
+            <numero>numero telefonico</numero>
+            <ubicacion>ciudad, estado, codigo postal</ubicacion>
+            <email>correo</email>
+            <sitioweb>link sitio web</sitioweb>
+        </datosempresa>
+        <datosgenerales>
+            <cobro>
+                <nombrecliente>cliente</nombrecliente>
+                <direccion>calle y numero</direccion>
+                <ubicacion>ciudad, estado, codigo postal</ubicacion>
+            </cobro>
+            <envio>
+                <nombrecliente>cliente</nombrecliente>
+                <direccion>calle y numero</direccion>
+                <ubicacion>ciudad, estado, codigo postal</ubicacion>
+            </envio>
+            <invoice>
+                <numinvoice>numero</numinvoice>
+                <fechainvoice>fecha</fechainvoice>
+                <terminos>terminos de pago</terminos>
+                <limite>fecha limite</limite>
+            </invoice>
+        </datosgenerales>
+        <contenidos>
+            <contenido>
+                <producto_servicio>producto o servicio</producto_servicio>
+                <descripcion>descripcion del servicio</descripcion>
+                <cant_horas>cantidad u horas</cant_horas>
+                <calificacion>clasificacion</calificacion>
+                <cantidad>cantidad</cantidad>
+            </contenido>
+            <contenido>
+                <producto_servicio>producto o servicio</producto_servicio>
+                <descripcion>descripcion del servicio</descripcion>
+                <cant_horas>cantidad u horas</cant_horas>
+                <calificacion>clasificacion</calificacion>
+                <cantidad>cantidad</cantidad>
+            </contenido>
+        </contenidos>
+        <mensaje>
+            Hello!
+            Thank you for the purchase.
+            Please return this invoice with payment.
+            Thanks!
+        </mensaje>
+        <pago>
+            <subtotal>subtotal</subtotal>
+            <iva>iva</iva>
+            <enviocosto>costos de envio</enviocosto>
+            <total>total</total>
+        </pago>
+    </factura>
+</facturas>

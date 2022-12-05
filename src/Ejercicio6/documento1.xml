@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<documento1>
+    <comentario>
+        Hay errores de sintaxis
+    </comentario>
+    <documento>
+        <p>
+            <destacarimportancia>
+                Mi primer documento XML
+            </destacarimportancia>
+        </p>
+        <p>Comienza con la etiqueta</p>
+        <p>A continuacion colocamos un elemento sin contenido</p>
+        <imagen fichero="imagen.gif"/>
+    </documento>
+</documento1>

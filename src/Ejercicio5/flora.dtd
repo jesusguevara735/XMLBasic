@@ -1,0 +1,10 @@
+<!ELEMENT flora (Arboles)*>
+        <!ELEMENT Arboles (nombrecientifico|nombrecomun|vegetacion|altura|formayestructura|colorenprimavera|resistenciaheladas|colorenotoño)*>
+        <!ELEMENT nombrecientifico (#PCDATA)>
+        <!ELEMENT nombrecomun (#PCDATA)>
+        <!ELEMENT vegetacion (#PCDATA)>
+        <!ELEMENT altura (#PCDATA)>
+        <!ELEMENT formayestructura (#PCDATA)>
+        <!ELEMENT colorenprimavera (#PCDATA)>
+        <!ELEMENT resistenciaheladas (#PCDATA)>
+        <!ELEMENT colorenotoño (#PCDATA)>
